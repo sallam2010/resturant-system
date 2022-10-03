@@ -1,0 +1,145 @@
+{
+  "users": [
+    {
+      "name": "ahmed mostafa",
+      "email": "salam@066.com",
+      "pass": "01090444358",
+      "id": 1
+    },
+    {
+      "name": "ahmed mohamed",
+      "email": "ahmed123@gmail.com",
+      "pass": "ahmedyahia",
+      "id": 2
+    },
+    {
+      "name": "amr sallam",
+      "email": "amr@321.com",
+      "pass": "09983452345",
+      "id": 3
+    }
+  ],
+  "locations": [
+    {
+      "name": "hahahasdqdq",
+      "phone": "12312312322",
+      "address": "sdnjnded,ed",
+      "userId": 3,
+      "id": 1
+    },
+    {
+      "name": "jhgfghbhbb",
+      "phone": "123456789998",
+      "address": "gnkfnjn,kjnjn",
+      "userId": 3,
+      "id": 2
+    },
+    {
+      "name": "sallamdwsc",
+      "phone": "0900987655",
+      "address": "cairo sadddew",
+      "userId": 2,
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "name": "asdff",
+      "userId": 3,
+      "locationId": 1,
+      "id": 1
+    },
+    {
+      "name": "Hardes",
+      "userId": 3,
+      "locationId": 2,
+      "id": 2
+    },
+    {
+      "name": "Pizza",
+      "userId": 3,
+      "locationId": 2,
+      "id": 3
+    },
+    {
+      "name": "KFC",
+      "userId": 3,
+      "locationId": 2,
+      "id": 4
+    },
+    {
+      "name": "MAC",
+      "userId": 3,
+      "locationId": 1,
+      "id": 5
+    },
+    {
+      "name": "cdcdvdvv",
+      "userId": 2,
+      "locationId": 3,
+      "id": 6
+    }
+  ],
+  "items": [
+    {
+      "name": "Tuna Sandwich",
+      "price": "10.99",
+      "description": "Best Tund Sandwuch",
+      "qty": 150,
+      "userId": 3,
+      "locId": 2,
+      "catId": 2,
+      "id": 1
+    },
+    {
+      "name": "Tuna Sandwich Double",
+      "price": "20.99",
+      "description": "Best Sandwich",
+      "qty": 100,
+      "userId": 3,
+      "locId": 2,
+      "catId": 2,
+      "id": 2
+    },
+    {
+      "name": "Tuna Sand sasa",
+      "price": "15.00",
+      "description": "Best Saller 1",
+      "qty": 10,
+      "userId": 3,
+      "locId": 2,
+      "catId": 2,
+      "id": 3
+    },
+    {
+      "name": "BURGER",
+      "price": "25.00",
+      "description": "Best SALLER",
+      "qty": 120,
+      "userId": 3,
+      "locId": 2,
+      "catId": 4,
+      "id": 4
+    },
+    {
+      "name": "Double Beef",
+      "price": "30.00",
+      "description": "Best Saller",
+      "qty": 20,
+      "userId": 3,
+      "locId": 2,
+      "catId": 3,
+      "id": 5
+    },
+    {
+      "name": "Pizza Beif",
+      "price": "25.00",
+      "description": "Best Saller Best Saller Best SallerBest Saller Best Saller Best Saller Best Saller",
+      "qty": 100,
+      "userId": 3,
+      "locId": 2,
+      "catId": 3,
+      "id": 6
+    }
+  ]
+}
